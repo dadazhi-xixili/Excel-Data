@@ -10,8 +10,8 @@ RANK.AVG(number,ref,[order=0])
 1. 数值 number：要确定排位的数字
 2. 引用 ref：查找的单元格。
 3. 排序方式 order）：指定排位方式。
-    - 0  降序
-    - 1  升序
+    - 0 降序
+    - 1 升序
 
 ## 概述
 
@@ -21,7 +21,7 @@ RANK.AVG(number,ref,[order=0])
 
 1. 如果 ref 中包含非数值数据（文本、逻辑值等），这些值将被忽略
 2. 如果 number 不在 ref 中，函数将返回 #N/A 错误
-3. 与 RANK 函数不同，RANK.AVG 对相同数值会返回平均排位（例如两个第3名，则都返回3.5）
+3. 与 RANK 函数不同，RANK.AVG 对相同数值会返回平均排位（例如两个第 3 名，则都返回 3.5）
 
 ## 示例
 
@@ -38,17 +38,20 @@ RANK.AVG(number,ref,[order=0])
 ```excel
 =RANK.AVG(A2,A$1:A$5)
 ```
+
 输出：  
 2.5
 
 ```excel
 =RANK.AVG(A2,A$1:A$5,1)
 ```
+
 输出：  
 3.5
 
 ```excel
 =RANK.AVG(95,A$1:A$5)
 ```
+
 输出：  
 #N/A

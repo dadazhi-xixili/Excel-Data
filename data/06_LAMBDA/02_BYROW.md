@@ -1,7 +1,8 @@
 # BYROW
+
 ## 语法
 
-**BYROW**(数组,自定义函数(行,表达式) | 函数)        
+**BYROW**(数组,自定义函数(行,表达式) | 函数)  
 **BYROW**(array,LAMBDA(row,calculation) | function)
 
 ### 参数

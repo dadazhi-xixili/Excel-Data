@@ -9,11 +9,11 @@
 
 1. 数组 array：去重的数组。
 2. 方向 by_col: 执行方向。
-   - FALSE 按行。
-   - TRUE 按列。
+    - FALSE 按行。
+    - TRUE 按列。
 3. 方式 exactly_once: 执行方式。
-   - FALSE 去重后返回所有行或列。
-   - TRUE 只出现一次的行或列。
+    - FALSE 去重后返回所有行或列。
+    - TRUE 只出现一次的行或列。
 
 ## 概述
 

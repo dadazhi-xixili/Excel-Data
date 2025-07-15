@@ -1,17 +1,17 @@
 # SCAN
+
 ## 语法
 
-**SCAN**([初始值],数组,自定义函数(累加器,当前值,表达式) | 函数)		
-**SCAN**([initial_value],array,lambda(accumulator,value,body) | function)
+**SCAN**([初始值],数组,自定义函数(累加器,当前值,表达式) | 函数) **SCAN**([initial_value],array,lambda(accumulator,value,body) | function)
 
 ### 参数
 
 1. 初始值 initial_value：初始值。
 2. 数组 array：要处理的数组。
 3. 自定义函数 LAMBDA：处理数组的函数。
-   - 累加器 accumulator：上一步的结果。
-   - 当前值 value：当前处理的值。
-   - 表达式 body：处理数组的表达式。
+    - 累加器 accumulator：上一步的结果。
+    - 当前值 value：当前处理的值。
+    - 表达式 body：处理数组的表达式。
 4. 函数 function：处理数组的函数。
 
 ## 概述
