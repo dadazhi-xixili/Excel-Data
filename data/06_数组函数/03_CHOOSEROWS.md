@@ -2,7 +2,8 @@
 
 ## 语法
 
-**CHOOSEROWS**(数组,列号\_1,[列号_2],…) **CHOOSEROWS**(array,row_num_1,[row_num_2],…)
+**CHOOSEROWS**(数组,列号\_1,[列号_2],…)  
+**CHOOSEROWS**(array,row_num_1,[row_num_2],…)
 
 ### 参数
 

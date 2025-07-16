@@ -2,7 +2,8 @@
 
 ## 语法
 
-**HSTACK**(数组\_1[,数组_2...]) **HSTACK**(array_1[,array_2...])
+**HSTACK**(数组\_1[,数组_2...])  
+**HSTACK**(array_1[,array_2...])
 
 ### 参数
 
