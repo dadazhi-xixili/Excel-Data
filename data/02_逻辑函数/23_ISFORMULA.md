@@ -23,31 +23,56 @@
 | 2   | =1  | =1/0 | =PI() |
 | 3   |
 
-```
+```excel
 ISFORMULA(A1)
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISFORMULA(A2)
-输出：
+```
+
+返回：  
 TRUE
 
+---
+
+```excel
 ISFORMULA("")
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISFORMULA(1)
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISFORMULA(TRUE)
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISFORMULA(A1:C3)
 ```
 
-| 输出 |       |       |       |
+| 返回 |       |       |       |
 | ---- | ----- | ----- | ----- |
 |      | FALSE | FALSE | FALSE |
 |      | TRUE  | TRUE  | TRUE  |

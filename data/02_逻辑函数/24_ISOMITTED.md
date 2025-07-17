@@ -17,10 +17,16 @@
 
 ```excel
 LAMBDA(x,y,ISOMITTED(y))(1,)
-输出：
+```
+
+返回：  
 TRUE
 
+---
+
+```excel
 LAMBDA(x,y,ISOMITTED(y))(1,)
-输出：
-FALSE
 ```
+
+返回：  
+FALSE

@@ -23,31 +23,56 @@
 | 2   |
 | 3   |
 
-```
+```excel
 ISBLANK(A1)
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISBLANK(A2)
-输出：
+```
+
+返回：  
 TRUE
 
+---
+
+```excel
 ISBLANK("")
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISBLANK(1)
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISBLANK(TRUE)
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISBLANK(A1:C3)
 ```
 
-| 输出 |       |       |       |
+| 返回 |       |       |       |
 | ---- | ----- | ----- | ----- |
 |      | FALSE | FALSE | FALSE |
 |      | TRUE  | TRUE  | TRUE  |

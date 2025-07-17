@@ -29,8 +29,10 @@ MEDIAN(number1[,number2...number255])
 MEDIAN(TRUE,"0")
 ```
 
-输出：  
+返回：  
 0.5
+
+---
 
 ### 示例数据
 
@@ -42,5 +44,5 @@ MEDIAN(TRUE,"0")
 MEDIAN(0,{0,"1"},A1)
 ```
 
-输出：  
+返回：  
 0

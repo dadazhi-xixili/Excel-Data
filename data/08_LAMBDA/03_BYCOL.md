@@ -1,6 +1,8 @@
 # BYCOL
+
 ## 语法
-**BYCOL**(数组,自定义函数(列,表达式) | 函数)        
+
+**BYCOL**(数组,自定义函数(列,表达式) | 函数)  
 **BYCOL**(array,LAMBDA(column,calculation) | function)
 
 ### 参数
@@ -41,6 +43,8 @@ BYCOL(A1:C3,LAMBDA(row,SUM(row)*2))
 | 3    | 7               | 8               | 9               |
 | 过程 | SUM({1;4;7})\*2 | SUM({2;5;8})\*2 | SUM({3;6;9})\*2 |
 | 返回 | 24              | 30              | 36              |
+
+---
 
 #### 传入函数
 

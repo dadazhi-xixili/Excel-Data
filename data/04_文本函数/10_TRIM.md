@@ -22,6 +22,8 @@ TRIM("   Hello World   ")
 返回：  
 "Hello World"
 
+---
+
 ```excel
 TRIM("")
 ```

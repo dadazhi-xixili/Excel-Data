@@ -21,14 +21,25 @@
 
 ```excel
 AND(TRUE,1,TRUE)
-输出：
+```
+
+输出：  
 TRUE
 
+---
+
+```excel
 AND(TRUE,TRUE,FALSE)
-输出：
+```
+
+输出：  
 FALSE
 
+---
+
+```excel
 AND(TRUE,0)
-输出：
-FALSE
 ```
+
+输出：  
+FALSE

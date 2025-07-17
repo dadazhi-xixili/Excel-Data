@@ -32,6 +32,8 @@ WRAPCOLS(A1:C1,2)
 |      | 1   | 3    |
 |      | 2   | #N/A |
 
+---
+
 ```excel
 WRAPCOLS(A1:C1,2,"空缺")
 ```

@@ -26,12 +26,16 @@ UNICHAR(65)
 返回：  
 "A"
 
+---
+
 ```excel
 UNICHAR(256)
 ```
 
 返回：  
-Ā
+"Ā"
+
+---
 
 ```excel
 CHAR(256)

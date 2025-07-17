@@ -29,6 +29,8 @@ SUBSTITUTE("Hello World", "World", "Excel")
 返回：  
 "Hello Excel"
 
+---
+
 ```excel
 SUBSTITUTE("111111", "1", "2", 3)
 ```

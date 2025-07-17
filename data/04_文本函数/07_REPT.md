@@ -27,6 +27,8 @@ REPT("Hello",3)
 输出：  
 "HelloHelloHello"
 
+---
+
 ```excel
 REPT("Hello",0.9)
 ```

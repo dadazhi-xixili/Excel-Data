@@ -39,19 +39,23 @@ RANK.AVG(number,ref,[order=0])
 =RANK.AVG(A2,A$1:A$5)
 ```
 
-输出：  
+返回：  
 2.5
+
+---
 
 ```excel
 =RANK.AVG(A2,A$1:A$5,1)
 ```
 
-输出：  
+返回：  
 3.5
+
+---
 
 ```excel
 =RANK.AVG(95,A$1:A$5)
 ```
 
-输出：  
+返回：  
 #N/A

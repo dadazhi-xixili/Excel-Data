@@ -31,5 +31,5 @@ PRODUCT(number1[,number2...number255])
 PRODUCT("2",2,{"0",2})
 ```
 
-输出:  
+返回：  
 16

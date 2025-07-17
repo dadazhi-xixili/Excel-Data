@@ -24,6 +24,8 @@ UNICODE("A")
 返回：  
 65
 
+---
+
 ```excel
 // UNICHAR(256) = "Ā"
 CODE(UNICHAR(256))
@@ -31,6 +33,8 @@ CODE(UNICHAR(256))
 
 返回：  
 63
+
+---
 
 ```excel
 // UNICHAR(256) = "Ā"

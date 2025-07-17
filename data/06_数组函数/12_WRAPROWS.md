@@ -32,6 +32,8 @@ WRAPROWS(A1:C1,2)
 |      | 1   | 2    |
 |      | 3   | #N/A |
 
+---
+
 ```excel
 WRAPROWS(A1:C1,2,"空缺")
 ```

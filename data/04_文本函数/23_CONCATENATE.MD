@@ -22,6 +22,8 @@ CONCATENATE("Hello"," ","World")
 返回：  
 "Hello World"
 
+---
+
 ```excel
 CONCATENATE(1,2)
 ```

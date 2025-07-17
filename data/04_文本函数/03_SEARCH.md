@@ -36,6 +36,8 @@ SEARCH("o", "Hello World")
 返回：  
 5
 
+---
+
 ```excel
 SEARCH("o", "Hello World", 6)
 ```
@@ -43,12 +45,16 @@ SEARCH("o", "Hello World", 6)
 返回：  
 8
 
+---
+
 ```excel
 SEARCH("o", "Hello World", 9)
 ```
 
 返回：  
 #VALUE!
+
+---
 
 ```excel
 SEARCH("o?l", "Hello World")

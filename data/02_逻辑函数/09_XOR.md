@@ -17,14 +17,25 @@
 
 ```excel
 XOR(1)
-输出：
+```
+
+输出：  
 TRUE
 
+---
+
+```excel
 XOR(1,TRUE)
-输出：
+```
+
+输出：  
 FALSE
 
+---
+
+```excel
 XOR(0,TRUE,1,1=1,FALSE)
-输出：
-TRUE
 ```
+
+输出：  
+TRUE

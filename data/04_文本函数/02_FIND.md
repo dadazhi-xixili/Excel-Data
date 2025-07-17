@@ -32,12 +32,16 @@ FIND("o", "Hello World")
 返回：  
 5
 
+---
+
 ```excel
 FIND("o", "Hello World", 6)
 ```
 
 返回：  
 8
+
+---
 
 ```excel
 FIND("o", "Hello World", 9)

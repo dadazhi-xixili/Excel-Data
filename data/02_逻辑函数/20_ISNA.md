@@ -15,21 +15,36 @@
 
 ## 示例
 
-```
+```excel
 ISNA(NA())
-输出：
+```
+
+返回：  
 TRUE
 
+---
+
+```excel
 ISNA(1/0)
-输出：
-FALSE
-
-ISNA(TRUE)
-输出：
-FALSE
-
-
-ISNA(1)
-输出：
-FALSE
 ```
+
+返回：  
+FALSE
+
+---
+
+```excel
+ISNA(TRUE)
+```
+
+返回：  
+FALSE
+
+---
+
+```excel
+ISNA(1)
+```
+
+返回：  
+FALSE

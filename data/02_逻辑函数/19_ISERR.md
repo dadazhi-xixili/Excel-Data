@@ -15,21 +15,36 @@
 
 ## 示例
 
-```
+```excel
 ISERR(NA())
-输出：
+```
+
+返回：  
 FALSE
 
+---
+
+```excel
 ISERR(1/0)
-输出：
+```
+
+返回：  
 TRUE
 
+---
+
+```excel
 ISERR(TRUE)
-输出：
-FALSE
-
-
-ISERR(1)
-输出：
-FALSE
 ```
+
+返回：  
+FALSE
+
+---
+
+```excel
+ISERR(1)
+```
+
+返回：  
+FALSE

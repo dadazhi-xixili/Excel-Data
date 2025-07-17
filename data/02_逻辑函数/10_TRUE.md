@@ -16,6 +16,7 @@
 
 ```excel
 TRUE()
-输出：
-TRUE
 ```
+
+输出：  
+TRUE

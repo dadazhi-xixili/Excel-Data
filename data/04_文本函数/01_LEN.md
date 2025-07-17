@@ -24,6 +24,8 @@ LEN("Hello World")
 返回：  
 11
 
+---
+
 ```excel
 LEN("")
 ```

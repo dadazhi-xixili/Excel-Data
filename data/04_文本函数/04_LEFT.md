@@ -31,12 +31,16 @@ LEFT("Hello World",5)
 返回：  
 "Hello"
 
+---
+
 ```excel
 LEFT("Hello World",0)
 ```
 
 返回：  
 ""
+
+---
 
 ```excel
 LEFT("Hello World")

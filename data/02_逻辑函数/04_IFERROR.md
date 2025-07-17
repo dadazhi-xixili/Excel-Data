@@ -22,8 +22,9 @@
 
 ```excel
 IFERROR(1/0,)
-过程：
-IFERROR(#DIV/0!,0)
-输出：
-0
 ```
+
+过程：  
+IFERROR(#DIV/0!,0)  
+输出：  
+0

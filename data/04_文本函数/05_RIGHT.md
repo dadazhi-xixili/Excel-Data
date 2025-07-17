@@ -29,12 +29,16 @@ RIGHT("Hello World",5)
 返回：  
 "World"
 
+---
+
 ```excel
 RIGHT("Hello World",0)
 ```
 
 返回：  
 ""
+
+---
 
 ```excel
 RIGHT("Hello World")

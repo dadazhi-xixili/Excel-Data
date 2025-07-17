@@ -40,6 +40,8 @@ CHOOSECOLS(A1:D4,2)
 |      | 12  |
 |      | 16  |
 
+---
+
 ```excel
 CHOOSECOLS(A1:D4,1,3)
 ```

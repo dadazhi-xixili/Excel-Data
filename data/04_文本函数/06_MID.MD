@@ -34,6 +34,8 @@ MID("Hello World",1,5)
 返回：  
 "Hello"
 
+---
+
 ```excel
 MID("Hello World",1,0)
 ```
@@ -41,12 +43,16 @@ MID("Hello World",1,0)
 返回：  
 ""
 
+---
+
 ```excel
 MID("Hello World",1,100)
 ```
 
 返回：  
 "Hello World"
+
+---
 
 ```excel
 MID("Hello World",6,5)

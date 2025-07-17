@@ -33,6 +33,8 @@ TRANSPOSE(A1:C3)
 |      | 2   | 5   | 8   |
 |      | 3   | 6   | 9   |
 
+---
+
 ```
 TRANSPOSE(TRANSPOSE((A1:C3)))
 ```
